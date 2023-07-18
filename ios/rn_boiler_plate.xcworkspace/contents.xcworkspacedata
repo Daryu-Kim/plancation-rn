@@ -8,6 +8,6 @@
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:rn_boiler_plate.xcodeproj">
+      location = "group:plancation.xcodeproj">
    </FileRef>
 </Workspace>
