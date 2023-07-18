@@ -1,4 +1,4 @@
-package com.rn_boiler_plate;
+package com.daryukim.plancation;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

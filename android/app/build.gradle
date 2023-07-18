@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.rn_boiler_plate"
+    namespace "com.daryukim.plancation"
     defaultConfig {
-        applicationId "com.rn_boiler_plate"
+        applicationId "com.daryukim.plancation"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
