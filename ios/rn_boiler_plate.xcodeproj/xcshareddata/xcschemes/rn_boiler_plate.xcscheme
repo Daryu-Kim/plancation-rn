@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "rn_boiler_plate.app"
-               BlueprintName = "rn_boiler_plate"
-               ReferencedContainer = "container:rn_boiler_plate.xcodeproj">
+               BuildableName = "plancation.app"
+               BlueprintName = "plancation"
+               ReferencedContainer = "container:plancation.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "rn_boiler_plateTests.xctest"
-               BlueprintName = "rn_boiler_plateTests"
-               ReferencedContainer = "container:rn_boiler_plate.xcodeproj">
+               BuildableName = "plancationTests.xctest"
+               BlueprintName = "plancationTests"
+               ReferencedContainer = "container:plancation.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "rn_boiler_plate.app"
-            BlueprintName = "rn_boiler_plate"
-            ReferencedContainer = "container:rn_boiler_plate.xcodeproj">
+            BuildableName = "plancation.app"
+            BlueprintName = "plancation"
+            ReferencedContainer = "container:plancation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "rn_boiler_plate.app"
-            BlueprintName = "rn_boiler_plate"
-            ReferencedContainer = "container:rn_boiler_plate.xcodeproj">
+            BuildableName = "plancation.app"
+            BlueprintName = "plancation"
+            ReferencedContainer = "container:plancation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
